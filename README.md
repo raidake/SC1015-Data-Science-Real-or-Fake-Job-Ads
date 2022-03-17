@@ -4,6 +4,7 @@ https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
 
 
 References:
+
 https://analyticsindiamag.com/classifying-fake-and-real-job-advertisements-using-machine-learning/
 
 https://monkeylearn.com/blog/classification-algorithms/
