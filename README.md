@@ -36,6 +36,7 @@ Are we able to predict fraudulent jobs through information gathered from their a
 - Classifiers on job description (vectorized).ipynb: Apply models to vectorised text data, for prediction.
 
 ## Learning Outcomes / Conclusion / Improvements Needed
+- Handling imbalanced data with Stratified K-fold for cross validation, configure parameters on classifiers to balance data
 - 
 - Improvements Needed:
   - Cluster visualisation
