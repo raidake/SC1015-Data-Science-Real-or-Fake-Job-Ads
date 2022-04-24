@@ -38,7 +38,9 @@ Are we able to predict fraudulent jobs through information gathered from their a
 ## Learning Outcomes / Conclusion / Improvements Needed
 - Handling imbalanced data with Stratified K-fold for cross validation, configure parameters on classifiers to balance data
 - Utilising and properly configuring SGDClassifier, Random Forest Classifier, K-Nearest Neighbours from sklearn
-- 
+- Preparing text data for Natural Language Processing and using CUDA to speed up process
+- Understaing why f1-score is a better metric for evaluating classifiers
+- Collaborating efficently with Github Desktop
 - Improvements Needed:
   - Cluster visualisation
   - Keras model
