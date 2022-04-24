@@ -6,13 +6,30 @@ Dataset: https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
 Fake/Real Job Prediction
 
 ## Contributions
-- @raidake (Wei Feng) - EDA and improvements to all codes
-- @ttan-999 (Tony) - Classification models and prediction accuracy
-- @jvnsjh (Jovan) - Implementation of NLP
+- @raidake (Wei Feng) - Data-Cleaning 
+                      - EDA
+                      - TensorFlow
+                        - Keras 
+                      - K-Fold Stratified Cross Validation
+                      - Improvements to all codes
+- @ttan-999 (Tony) - Classification models
+                     - SGDClassifier
+                     - Random Forest Classifier
+                     - K-Neighbours Classifier
+                   - Confusion Matrix
+- @jvnsjh (Jovan) - Text Cleaning
+                  - Natural Language Processing
+                    - NLTK (Tokenization & Lemmatization)
+                    - spaCy
+                  - Word Clouds
 
 ## Problem Definition
-With the rise in fake job postings, it is important to differentiate real from fake job postings.  
-Are we able to predict fraudulent jobs through information gathered from their advertisments?
+With the rise in fake job postings, it is important to differentiate real from fake job postings. 
+
+What variables can help determine whether a post is fraudulent or not?
+Which classification model can help predict a fraudulent post?
+## Real-Life Problem
+A website that can filter out fraudulent posts can promote more visitors to browse the site, as well as more companies to post their job post
 
 ## Libraries / Models / Algorithms
 - SKLearn
@@ -26,7 +43,6 @@ Are we able to predict fraudulent jobs through information gathered from their a
   - WordNetLemmatizer
 - Wordclouds
 - spaCy
-- tensorflow
 
 ## Files
 
