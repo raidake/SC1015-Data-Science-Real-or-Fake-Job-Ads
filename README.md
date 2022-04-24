@@ -1,8 +1,8 @@
 # SC1015-Data-Science-Real-or-Fake-Job-Ads
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence)
-Dataset: https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence)  
+Dataset: https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction  
 Fake/Real Job Prediction
 
 ## Problem Definition
@@ -81,11 +81,12 @@ The Slides can be accessed from [here](https://docs.google.com/presentation/d/1N
 
 
 @jvnsjh (Jovan) 
-- Text Cleaning
+- Text Cleaning & Processing
   - Natural Language Processing
     - NLTK (Tokenization & Lemmatization)
     - spaCy
-- Word Clouds
+    - SKLearn (TFIDF & KMeans)
+
 
 
 
