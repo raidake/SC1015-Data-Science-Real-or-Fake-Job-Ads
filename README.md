@@ -53,11 +53,11 @@ Presentation Video can be viewed [here](https://youtu.be/O_X9zBPZDwo).
 ## Contributions
 @raidake (Wei Feng) 
 - Data-Cleaning 
-  - EDA
-  - TensorFlow
-   - Keras
-  - K-Fold Stratified Cross Validation
-  - Improvements to all codes
+- EDA
+- TensorFlow
+  - Keras
+- K-Fold Stratified Cross Validation 
+- Improvements to all codes
 
 @ttan-999 (Tony) 
 - Classification models
