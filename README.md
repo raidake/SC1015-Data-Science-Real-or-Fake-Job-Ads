@@ -15,9 +15,9 @@ A website that can filter out fraudulent posts can promote more visitors to brow
 
 ## Files
 
-Tokenized.csv can be downloaded from [here]https://drive.google.com/file/d/1AONsu4uFsm-8Srzmib2j-fEWySy6zjzR/view?usp=sharing.
+Tokenized.csv can be downloaded from [here](https://drive.google.com/file/d/1AONsu4uFsm-8Srzmib2j-fEWySy6zjzR/view?usp=sharing).
 
-Presentation Video can be viewed [here]https://youtu.be/O_X9zBPZDwo.
+Presentation Video can be viewed [here](https://youtu.be/O_X9zBPZDwo).
 
 
 ## Libraries / Models / Algorithms
