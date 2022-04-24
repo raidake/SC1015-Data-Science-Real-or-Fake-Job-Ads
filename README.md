@@ -59,5 +59,8 @@ Are we able to predict fraudulent jobs through information gathered from their a
 
 - https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
 
+- https://datascience.stackexchange.com/questions/65341/f1-score-vs-accuracy-which-metric-is-more-important
+
+- https://scikit-learn.org/
 
 
