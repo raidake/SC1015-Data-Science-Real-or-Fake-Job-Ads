@@ -39,6 +39,7 @@ The Slides can be accessed from [here](https://docs.google.com/presentation/d/1N
 
 ## Files
 
+- Data Cleaning.ipynb: Filtering and cleaning of data, output reallyCleanData.csv
 - reallyCleanData.csv: contains filtered columns of fake_job_postings.csv
 - EDA.ipnyb: Final EDA performed on dataset
 - finalisedNLP.ipnyb: Contains codes to perform Natural Language Processing on text data obtained from reallyCleanData.csv
@@ -109,4 +110,6 @@ The Slides can be accessed from [here](https://docs.google.com/presentation/d/1N
 
 - https://scikit-learn.org/
 
+- https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
 
+- https://www.kaggle.com/code/mohanamurali/keras-cnn-stratified-k-fold-optimal-lr
