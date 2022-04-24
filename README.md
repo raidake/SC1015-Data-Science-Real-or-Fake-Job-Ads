@@ -9,6 +9,7 @@ Fake/Real Job Prediction
 With the rise in fake job postings, it is important to differentiate real from fake job postings. 
 
 > What variables can help determine whether a post is fraudulent or not?
+
 > Which classification model can help predict a fraudulent post?
 
 ## Real-Life Problem
@@ -20,7 +21,7 @@ Tokenized.csv can be downloaded from [here](https://drive.google.com/file/d/1AON
 
 Presentation Video can be viewed [here](https://youtu.be/O_X9zBPZDwo).
 
-The Slides can be accessed from [here] (https://docs.google.com/presentation/d/1NE5gMbBkey2jIb4OQ9gxgHhNumLw7Kui/edit?usp=sharing&ouid=109160470030969670371&rtpof=true&sd=true).
+The Slides can be accessed from [here](https://docs.google.com/presentation/d/1NE5gMbBkey2jIb4OQ9gxgHhNumLw7Kui/edit?usp=sharing&ouid=109160470030969670371&rtpof=true&sd=true).
 
 
 ## Libraries / Models / Algorithms
