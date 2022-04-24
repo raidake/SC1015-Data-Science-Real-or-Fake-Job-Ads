@@ -5,24 +5,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 Dataset: https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
 Fake/Real Job Prediction
 
-## Contributions
-- @raidake (Wei Feng) - Data-Cleaning 
-                      - EDA
-                      - TensorFlow
-                        - Keras 
-                      - K-Fold Stratified Cross Validation
-                      - Improvements to all codes
-- @ttan-999 (Tony) - Classification models
-                     - SGDClassifier
-                     - Random Forest Classifier
-                     - K-Neighbours Classifier
-                   - Confusion Matrix
-- @jvnsjh (Jovan) - Text Cleaning
-                  - Natural Language Processing
-                    - NLTK (Tokenization & Lemmatization)
-                    - spaCy
-                  - Word Clouds
-
 ## Problem Definition
 With the rise in fake job postings, it is important to differentiate real from fake job postings. 
 
@@ -30,6 +12,13 @@ What variables can help determine whether a post is fraudulent or not?
 Which classification model can help predict a fraudulent post?
 ## Real-Life Problem
 A website that can filter out fraudulent posts can promote more visitors to browse the site, as well as more companies to post their job post
+
+## Files
+
+Tokenized.csv can be downloaded from [here]https://drive.google.com/file/d/1AONsu4uFsm-8Srzmib2j-fEWySy6zjzR/view?usp=sharing.
+
+Presentation Video can be viewed [here]https://youtu.be/O_X9zBPZDwo.
+
 
 ## Libraries / Models / Algorithms
 - SKLearn
@@ -60,6 +49,27 @@ A website that can filter out fraudulent posts can promote more visitors to brow
 - Improvements Needed:
   - Cluster visualisation
   - Keras model
+
+## Contributions
+- @raidake (Wei Feng) - Data-Cleaning 
+                      - EDA
+                      - TensorFlow
+                        - Keras 
+                      - K-Fold Stratified Cross Validation
+                      - Improvements to all codes
+- @ttan-999 (Tony) - Classification models
+                     - SGDClassifier
+                     - Random Forest Classifier
+                     - K-Neighbours Classifier
+                   - Confusion Matrix
+- @jvnsjh (Jovan) - Text Cleaning
+                  - Natural Language Processing
+                    - NLTK (Tokenization & Lemmatization)
+                    - spaCy
+                  - Word Clouds
+
+
+
 
 ## References:
 
