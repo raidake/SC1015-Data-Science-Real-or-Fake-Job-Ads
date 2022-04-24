@@ -51,22 +51,28 @@ Presentation Video can be viewed [here](https://youtu.be/O_X9zBPZDwo).
   - Keras model
 
 ## Contributions
-- @raidake (Wei Feng) - Data-Cleaning 
-                      - EDA
-                      - TensorFlow
-                        - Keras 
-                      - K-Fold Stratified Cross Validation
-                      - Improvements to all codes
-- @ttan-999 (Tony) - Classification models
-                     - SGDClassifier
-                     - Random Forest Classifier
-                     - K-Neighbours Classifier
-                   - Confusion Matrix
-- @jvnsjh (Jovan) - Text Cleaning
-                  - Natural Language Processing
-                    - NLTK (Tokenization & Lemmatization)
-                    - spaCy
-                  - Word Clouds
+@raidake (Wei Feng) 
+- Data-Cleaning 
+  - EDA
+  - TensorFlow
+   - Keras
+  - K-Fold Stratified Cross Validation
+  - Improvements to all codes
+
+@ttan-999 (Tony) 
+- Classification models
+  - SGDClassifier
+  - Random Forest Classifier
+  - K-Neighbours Classifier
+- Confusion Matrix
+
+
+@jvnsjh (Jovan) 
+- Text Cleaning
+  - Natural Language Processing
+    - NLTK (Tokenization & Lemmatization)
+    - spaCy
+- Word Clouds
 
 
 
