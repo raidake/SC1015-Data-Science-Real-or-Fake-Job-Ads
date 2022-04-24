@@ -35,8 +35,11 @@ Are we able to predict fraudulent jobs through information gathered from their a
 - finalisedNLP.ipnyb: Contains codes to perform Natural Language Processing on text data obtained from reallyCleanData.csv
 - Classifiers on job description (vectorized).ipynb: Apply models to vectorised text data, for prediction.
 
-## Learning Outcomes
+## Learning Outcomes / Conclusion / Improvements Needed
 - 
+- Improvements Needed:
+  - Cluster visualisation
+  - Keras model
 
 ## References:
 
