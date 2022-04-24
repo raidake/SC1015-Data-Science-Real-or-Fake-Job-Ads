@@ -29,8 +29,17 @@ The Slides can be accessed from [here](https://docs.google.com/presentation/d/1N
   - **SGDClassifiers (Best)**
   - Random Forest Classifier
   - K-Neighbours Classifier
+  - Stratified KFold
+  - f1_score
 - Pandas
+- Seaborn
+- Numpy
+- Matplotlib
+- gc (garbage collection)
 - Tensorflow
+  - Keras
+    - Sequential Model
+    - Dense Layer
 - NLTK
   - Tokenizor
   - WordNetLemmatizer
