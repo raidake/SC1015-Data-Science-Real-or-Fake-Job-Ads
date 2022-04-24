@@ -8,8 +8,9 @@ Fake/Real Job Prediction
 ## Problem Definition
 With the rise in fake job postings, it is important to differentiate real from fake job postings. 
 
-What variables can help determine whether a post is fraudulent or not?
-Which classification model can help predict a fraudulent post?
+> What variables can help determine whether a post is fraudulent or not?
+> Which classification model can help predict a fraudulent post?
+
 ## Real-Life Problem
 A website that can filter out fraudulent posts can promote more visitors to browse the site, as well as more companies to post their job post
 
@@ -18,6 +19,8 @@ A website that can filter out fraudulent posts can promote more visitors to brow
 Tokenized.csv can be downloaded from [here](https://drive.google.com/file/d/1AONsu4uFsm-8Srzmib2j-fEWySy6zjzR/view?usp=sharing).
 
 Presentation Video can be viewed [here](https://youtu.be/O_X9zBPZDwo).
+
+The Slides can be accessed from [here] (https://docs.google.com/presentation/d/1NE5gMbBkey2jIb4OQ9gxgHhNumLw7Kui/edit?usp=sharing&ouid=109160470030969670371&rtpof=true&sd=true).
 
 
 ## Libraries / Models / Algorithms
@@ -40,15 +43,24 @@ Presentation Video can be viewed [here](https://youtu.be/O_X9zBPZDwo).
 - finalisedNLP.ipnyb: Contains codes to perform Natural Language Processing on text data obtained from reallyCleanData.csv
 - Classifiers on job description (vectorized).ipynb: Apply models to vectorised text data, for prediction.
 
-## Learning Outcomes / Conclusion / Improvements Needed
+## Learning Outcomes / Improvements Needed
 - Handling imbalanced data with Stratified K-fold for cross validation, configure parameters on classifiers to balance data
 - Utilising and properly configuring SGDClassifier, Random Forest Classifier, K-Nearest Neighbours from sklearn
 - Preparing text data for Natural Language Processing and using CUDA to speed up process
 - Understaing why f1-score is a better metric for evaluating classifiers
 - Collaborating efficently with Github Desktop
+
 - Improvements Needed:
   - Cluster visualisation
-  - Keras model
+  - Keras Model
+    - Lack of hardware resources to run the model, was only able to test on company_profile, but not on anything else due to lack of memory
+  - Find different combinations of text data from different columns that might give a better accuracy in predicting
+
+# Conclusion
+- The categorical and numerical variables was no help in predicting for fraudulents post due to the lack of correlation
+- SGD Classifier model have the most accurate results, as well as the fastest time among other models. This classifier can then be used to help filter job posts for fraudulent ones and improve the overall posts to ensure every posts are legit.
+- Just from human observation, an empty value in "Industry", "Department" or "Function" is a clear indication of fraudulent post.
+
 
 ## Contributions
 @raidake (Wei Feng) 
